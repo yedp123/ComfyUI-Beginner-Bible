@@ -73,7 +73,7 @@ const nodes = [
         u: "<strong>How to use:</strong> Use if a LoRA is ruining your prompt comprehension."
     },
     {
-        n: "ControlNet Loader",
+        n: "ControlNet Loader (DEPRECATED)",
         id: "ControlNetLoader",
         t: "Loader",
         d: "Loads a 'Guide'. Tells the AI to follow the shape of an input image.",
@@ -1486,4 +1486,5 @@ function addNodeToGraph(type, dropEvent = null) {
     
     app.graph.add(node);
     app.canvas.selectNode(node);
+
 }
