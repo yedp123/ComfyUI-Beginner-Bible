@@ -2,6 +2,9 @@
 
 **An in-app, drag-and-drop dictionary for ComfyUI, designed specifically for absolute beginners and non-coders.**
 
+<img width="697" height="849" alt="image" src="https://github.com/user-attachments/assets/97305250-5c61-4e3e-9607-c7056501f340" />
+
+
 If you are new to ComfyUI, the sheer number of nodes can be overwhelming. What does a "KSampler" do? Why do I need a "VAE Decode"? This extension adds a beautifully styled, searchable sidebar directly inside ComfyUI that translates 136 core nodes into plain, simple English.
 
 
@@ -22,7 +25,7 @@ If you are new to ComfyUI, the sheer number of nodes can be overwhelming. What d
    cd ComfyUI/custom\_nodes/
 
 3. Clone this repository:  
-   git clone \[https://github.com/YOUR-USERNAME/ComfyUI-Beginner-Bible.git\](https://github.com/YOUR-USERNAME/ComfyUI-Beginner-Bible.git)
+   git clone [https://github.com/YOUR-USERNAME/ComfyUI-Beginner-Bible.git](https://github.com/YOUR-USERNAME/ComfyUI-Beginner-Bible.git)
 
 4. Restart ComfyUI.
 
@@ -36,7 +39,10 @@ If you are new to ComfyUI, the sheer number of nodes can be overwhelming. What d
 
 ## **🚀 How to Use**
 
-1. Look for the glowing **📖 Bible** button in your ComfyUI menu (top right in V2, floating bottom right or side menu in V1), or simply press **Alt \+ B** on your keyboard.  
+1. Look for the glowing **📖 Bible** button in your ComfyUI menu (top right in V2, floating bottom right or side menu in V1), or simply press **Alt \+ B** on your keyboard.
+
+<img width="696" height="84" alt="image" src="https://github.com/user-attachments/assets/25dfbf1d-808b-488c-b9f8-ab713a4bc902" />
+
 2. Use the **search bar** or the **category tags** (Loader, Conditioning, Sampling, etc.) to find the node you need.  
 3. Read the description and the **Beginner Tip** to understand how to wire it.  
 4. **Drag and drop** the card onto your canvas, or just **click it** to spawn the node at the center of your screen.
