@@ -73,7 +73,7 @@ const nodes = [
         u: "<strong>How to use:</strong> Use if a LoRA is ruining your prompt comprehension."
     },
     {
-        n: "ControlNet Loader (DEPRECATED)",
+        n: "ControlNet Loader",
         id: "ControlNetLoader",
         t: "Loader",
         d: "Loads a 'Guide'. Tells the AI to follow the shape of an input image.",
@@ -278,7 +278,7 @@ const nodes = [
         u: "<strong>How to use:</strong> Draw a mask over a shirt. Connect 'Red Shirt' prompt."
     },
     {
-        n: "Apply ControlNet",
+        n: "Apply ControlNet (DEPRECATED)",
         id: "ControlNetApply",
         t: "Conditioning",
         d: "The 'Tracing Paper' node. Forces the AI to follow the lines/depth of an input image.",
@@ -1488,4 +1488,5 @@ function addNodeToGraph(type, dropEvent = null) {
     app.canvas.selectNode(node);
 
 }
+
 
