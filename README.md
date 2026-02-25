@@ -53,4 +53,4 @@ Found a core node that is missing? Think an explanation could be even simpler? F
 
 ## **❤️ Credits**
 
-Curated and created by Yann. Designed to help artists and beginners easily bridge the gap into node-based AI workflows.
+Curated and created by Yedp. Designed to help artists and beginners easily bridge the gap into node-based AI workflows.
