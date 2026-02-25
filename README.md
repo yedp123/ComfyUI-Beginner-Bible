@@ -25,7 +25,7 @@ If you are new to ComfyUI, the sheer number of nodes can be overwhelming. What d
    cd ComfyUI/custom\_nodes/
 
 3. Clone this repository:  
-   git clone [https://github.com/YOUR-USERNAME/ComfyUI-Beginner-Bible.git](https://github.com/YOUR-USERNAME/ComfyUI-Beginner-Bible.git)
+   git clone [https://github.com/yedp123/ComfyUI-Beginner-Bible.git](https://github.com/yedp123/ComfyUI-Beginner-Bible.git)
 
 4. Restart ComfyUI.
 
