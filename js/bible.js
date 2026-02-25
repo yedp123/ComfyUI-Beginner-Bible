@@ -1488,3 +1488,4 @@ function addNodeToGraph(type, dropEvent = null) {
     app.canvas.selectNode(node);
 
 }
+
