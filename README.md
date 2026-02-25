@@ -14,15 +14,14 @@ If you are new to ComfyUI, the sheer number of nodes can be overwhelming. What d
 * **🖱️ Native Drag & Drop:** Found the node you need? Just click and drag the card directly from the dictionary onto your canvas.  
 * **👁️ Hover Previews:** Hover over any node in the list to instantly see a preview of its inputs (colored dots) and outputs.  
 * **⌨️ Hotkey Ready:** Press **Alt \+ B** anytime to instantly slide the panel open or closed.  
-* **🎨 V1 & V2 Compatible:** Integrates seamlessly into the classic ComfyUI menu or perfectly alongside the top-bar settings in the new ComfyUI V2 frontend (with an epic glowing button\!).
 
 ## **📦 Installation**
 
-### **Method 1: Git Clone (Recommended)**
+### **Method 1: Git Clone**
 
 1. Open your terminal/command prompt.  
-2. Navigate to your ComfyUI custom\_nodes folder:  
-   cd ComfyUI/custom\_nodes/
+2. Navigate to your ComfyUI custom_nodes folder:  
+   cd ComfyUI/custom_nodes/
 
 3. Clone this repository:  
    git clone [https://github.com/yedp123/ComfyUI-Beginner-Bible.git](https://github.com/yedp123/ComfyUI-Beginner-Bible.git)
@@ -34,12 +33,12 @@ If you are new to ComfyUI, the sheer number of nodes can be overwhelming. What d
 1. Click the green **Code** button at the top of this repository and select **Download ZIP**.  
 2. Extract the folder.  
 3. Rename the extracted folder to ComfyUI-Beginner-Bible.  
-4. Move the folder into your ComfyUI/custom\_nodes/ directory.  
+4. Move the folder into your ComfyUI/custom_nodes/ directory.  
 5. Restart ComfyUI.
 
 ## **🚀 How to Use**
 
-1. Look for the glowing **📖 Bible** button in your ComfyUI menu (top right in V2, floating bottom right or side menu in V1), or simply press **Alt \+ B** on your keyboard.
+1. Look for the **📖 Bible** button in your ComfyUI menu or simply press **Alt \+ B** on your keyboard.
 
 <img width="696" height="84" alt="image" src="https://github.com/user-attachments/assets/25dfbf1d-808b-488c-b9f8-ab713a4bc902" />
 
