@@ -4,7 +4,6 @@
 
 If you are new to ComfyUI, the sheer number of nodes can be overwhelming. What does a "KSampler" do? Why do I need a "VAE Decode"? This extension adds a beautifully styled, searchable sidebar directly inside ComfyUI that translates 136 core nodes into plain, simple English.
 
-*(Replace with an actual screenshot of your UI\!)*
 
 ## **✨ Features**
 
